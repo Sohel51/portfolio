@@ -265,27 +265,27 @@ section{
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(4) .bar span{
-    width: 65%;
+    width: 70%;
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(5) .bar span{
-    width: 75%;
+    width: 85%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(2) .bar span{
-    width: 98%;
+    width: 90%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(3) .bar span{
-    width: 67%;
+    width: 95%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(4) .bar span{
-    width: 75%;
+    width: 50%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(5) .bar span{
-    width: 60%;
+    width: 80%;
 }
 
 .about .row .box .exp-box{
@@ -446,6 +446,10 @@ section{
 
 .portfolio .image-container .box .info h3{
     font-size: 2.5rem;
+    color:var(--primary-text-color);
+}
+
+.portfolio .image-container .box .info h3 a{
     color:var(--primary-text-color);
 }
 
